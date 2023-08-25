@@ -1,0 +1,1 @@
+add_library(mP3Parser mp3Parser.cpp mp3Parser.h)
